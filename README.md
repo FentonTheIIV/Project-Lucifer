@@ -23,9 +23,9 @@ The story starts long after the first Mun landing, long after anyone left old Ho
 
 ### ✍️ Authors
 
-Me! Hi I'm Fenton :3
-Praeses Aureola
-ModeratlyKerbal
+- Me! Hi I'm Fenton :3
+- Praeses Aureola
+- ModeratlyKerbal
 
 ## 🚀 Sneak peeks
 
