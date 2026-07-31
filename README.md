@@ -52,5 +52,3 @@ Delete all existing planet mods, install the dependecies, then download project 
 ## 💭 Feedback
 
 If you want, you can test the mod! It is unfinished tho so you'll be my unpaid guinnea pigs. If you have issues, put them in the issues section of the github. I can take care of it from there! :3
-
-Or, you can DM @praesesaureola on discord. Or you can do it just for fun even if you don't have an issue. Tell em fenton sent ya
