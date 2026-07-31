@@ -33,6 +33,8 @@ The story starts long after the first Mun landing, long after anyone left old Ho
 
 ![Lucifer System Map](/GithubStuff/systemmap1_002.png)
 
+![Loone System Map](/GithubStuff/LooneSystemMap2.png)
+
 
 ## ⬇️ Installation
 
