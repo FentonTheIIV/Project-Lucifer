@@ -1,6 +1,6 @@
 # Project Lucifer
 
-A planet mod taking place during Kerbol's transformation into a red giant. Society has long forgotten the world around them. Based on Aethyl, a moon of Loone, a rapidly changing gas giant orbiting Lucifer. A large red giant going through it's mid life crisis. All might be fine for now, but the future of Jebediah Jr.'s children are at stake. With the kerbals forgetting everything they had known, they restart life on Aethyl. A world named after the few letters they could find in the ancient Lonapse textbooks. Pick yourself up and find a way out of this hellish system
+A planet mod taking place during Kerbol's transformation into a red giant. Society has long forgotten the world around them. Based on Aethyl, a moon of Loone, a rapidly changing gas giant orbiting Lucifer. A large red giant going through a major change. All might be fine for now, but the future of everyone’s children are at stake. With the kerbals forgetting everything they had known, they restart life on Aethyl. A world named after the few letters they could find in the ancient Lonapse textbooks. Pick yourself up and find a way out of this hellish system before it’s too late
 
 > *This mod is not yet finished. If you would like to help, put issues/bugs under the issues section of this github*
 
@@ -16,7 +16,7 @@ A planet mod taking place during Kerbol's transformation into a red giant. Socie
 
 ## Overview
 
-This mod intends to provide a mostly smooth playing experience, unlike quite a few planet mods out there, for players with lower end systems such as 2/3 of this mod's devs. This will have full visual mod compatibility, such as parallax, volumetric clouds (v5 and v3), and eve redux along with the other various mods out there. A story mod is planned.
+This mod intends to provide a mostly smooth playing experience, unlike quite a few planet mods out there, for players with lower-end systems such as 2/3 of this mod's devs. This will have full visual mod compatibility, such as Parallax Continued, Volumetric Clouds (v5 and v3), and even EVE redux, along with the other various mods out there. A story mode is planned too! So keep an eye out for that if you’re interested!!
 
 The story starts long after the first Mun landing, long after anyone left old Home. A colony on Aethyl, destroyed down to a few settlements, found themselves at the center of all Kerbalkind. In the sky stood an old friend, turned enemy, that will stand to torture all that is left for some time, betraying them even after the torment starts to slow. They have destroyed all that they had, tossing their technology and their home in the bright boiling fireball that lies overhead. They have ekked out a living on the little they had but their tormenter has started to tire, things have changed, and will continue to change. The walking shall soon be dead unless they find a way out of this system doomed for silence.
 
@@ -42,7 +42,7 @@ Delete all existing planet mods, install the dependecies, then download project 
 
 *This is a work in progress, stuff may change such as a separate visuals download*
 
-## Roadmap
+## ꈨ Roadmap
 
 - Full Parallax Continued support
 - Full volumetric clouds/scatterer support (both the free and paid versions, don't worry)
