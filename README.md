@@ -12,6 +12,10 @@ A planet mod taking place during Kerbol's transformation into a red giant. Socie
 - Vertex Mitchell-Netravali Filtered Heightmap, is a requirement. Won't load up otherwise
 - KSP Community Fixes, this fixes a lot of bugs.
 - Atmospheric utils, allows for some cool stuff
+- Kopernicus Expansion Continued-er
+- VertexColorMapEmissive
+- Singularity
+- Scaled Decorator
 
 
 ## Overview
