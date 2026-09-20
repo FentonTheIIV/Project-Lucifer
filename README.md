@@ -1,4 +1,7 @@
+
 # Project Lucifer
+[![Discord](https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/N3fjktdbPD)
+
 
 A planet mod taking place during Kerbol's transformation into a red giant. Society has long forgotten the world around them. Based on Aethyl, a moon of Loone, a rapidly changing gas giant orbiting Lucifer. A large red giant going through a major change. All might be fine for now, but the future of everyone’s children are at stake. With the kerbals forgetting everything they had known, they restart life on Aethyl. A world named after the few letters they could find in the ancient Lonapse textbooks. Pick yourself up and find a way out of this hellish system before it’s too late
 
